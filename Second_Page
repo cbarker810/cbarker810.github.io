@@ -15,9 +15,9 @@
             </h1>
             </div>
     </nav>
-    <u><a href="Third_Page">Next Page</a></u>
+    <u><a href="Third_Page" target="_self">Next Page</a></u>
 </header>
-    <u><a href="index.html">Previous Page</a></u>
+    <u><a href="index.html" target="_self">Previous Page</a></u>
 <body>
     <div class="container">
         <nav class="indigo darken-4">
