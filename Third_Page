@@ -16,7 +16,7 @@
     </nav>
     <u><a href="index.html">First Page</a></u>
 </header>
-    <u><a href="Second_Page.html">Previous Page</a></u>
+    <u><a href="Second_Page">Previous Page</a></u>
 <body>
     <div class="container">
         <nav class="white">
