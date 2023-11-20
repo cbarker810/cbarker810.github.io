@@ -5,13 +5,13 @@
 <header>
     <nav class="black">
         <div class= "black">
-            <h2 class="center-align">
+            <h1 class="center-align">
                 <b>
                     <font face="Times">
                     Basketball & Hockey
                     </font>
                 </b>
-            </h2>
+            </h1>
             </div>
     </nav>
     <u><a href="index.html">First Page</a></u>

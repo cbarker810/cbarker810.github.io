@@ -6,13 +6,13 @@
     <nav class="red darken-4">
         <link rel="stylesheet" href="style.css">
         <div class="red darken-4">
-            <h2 class="center-align">
+            <h1 class="center-align">
                 <b>
                     <font face="Times">
                     Football & Baseball
                     </font>
                 </b>
-            </h2>
+            </h1>
             </div>
     </nav>
     <u><a href="Third_Page">Next Page</a></u>
