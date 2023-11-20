@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        </head>
+<header>
+    <nav class="red darken-4">
+        <link rel="stylesheet" href="style.css">
+        <div class="red darken-4">
+            <h2 class="center-align">
+                <b>
+                    <font face="Times">
+                    Football & Baseball
+                    </font>
+                </b>
+            </h2>
+            </div>
+    </nav>
+    <u><a href="Third_Page.html">Next Page</a></u>
+</header>
+    <u><a href="index.html">Previous Page</a></u>
+<body>
+    <div class="container">
+        <nav class="indigo darken-4">
+            <h4>
+                <b>
+                <font color= silver face="">New England Patriots</font>
+                </b>
+            </h4>
+        </nav>
+                <p class="flow-text">
+                    The New England Patriots are a professional American football team who compete in the National Football League (NFL). The team was founded as the Boston Patriots in 1959 until they moved to Foxborough in 1971. The Patriots are the second most valuable sports team in the world. They hold the records for the most Super Bowl appearances (11), wins (6), and losses (5). The franchise is most known for having one of the greatest sports dynasties with the Brady-Belichick era (2001-2019).  
+                </p>
+                <p class="flow-text">
+                    This dynasty would see the Patriots claim almost every major Super Bowl record, including other NFL records such as most playoff wins, most wins in a 10-year period, longest winning streak, most consecutive winning seasons, and much more. They also have one of the only undefeated seasons in history during the 2007 season, but loss in the Superbowl. Before the 21st century, the franchise had little success, but since then they’ve had many great players and great teams. These players include Tom Brady, Randy Moss, Teddy Bruschi, Ty Law, Rob Gronkowski, Wes Welker, and many more.  
+                </p>
+                <nav class="white">
+                <img src="Pats_Soxs.jpg" alt="Logos" width=516 height=250>
+                </nav>
+            <nav class="indigo darken-4">
+            <h4>
+                <b>
+                <font color= bright face="">Boston Red Sox</font>
+                </b>
+            </h4>
+            </nav>
+                <p class="flow-text">
+                    The Boston Red Sox are an American professional baseball team who compete in Major League Baseball (MLB). The team was founded in 1901 as one of the eight charter franchises and have resided at Fenway Park since 1912, the oldest ballpark in the MLB. The Red sox have won a total of nine World Series championships which is tied for the third-most in the MLB. They were dominant in the beginning, wining five championships from 1903-1918, but they then went into one of the longest championships droughts in baseball history, known as the “Curse of the Bambino.” Eventually, the franchise finally won in 2004 ending the drought. Following it up by going on to win three more becoming the first team to win four World Series in the 21st century.
+                </p>
+        </div>
+    </body>
+</html> 
